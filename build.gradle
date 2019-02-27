@@ -6,7 +6,7 @@ plugins {
     id 'nebula.nebula-bintray' version '3.5.2'
 }
 
-group 'au.com.console'
+group 'com.efredz'
 
 repositories {
     jcenter()
