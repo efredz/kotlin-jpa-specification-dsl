@@ -1,4 +1,4 @@
-package au.com.console.jpaspecificationdsl
+package com.efredz.jpa2specificationdsl
 
 import org.springframework.data.jpa.domain.Specification
 import org.springframework.data.jpa.repository.JpaRepository

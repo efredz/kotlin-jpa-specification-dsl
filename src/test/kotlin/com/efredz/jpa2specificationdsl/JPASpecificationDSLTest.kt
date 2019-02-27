@@ -1,4 +1,4 @@
-package au.com.console.jpaspecificationdsl
+package com.efredz.jpa2specificationdsl
 
 import org.hamcrest.MatcherAssert.assertThat
 import org.hamcrest.Matchers.containsInAnyOrder
