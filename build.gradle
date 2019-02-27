@@ -46,14 +46,14 @@ bintray {
     // allow republshing in case bintray fails to upload properly
     override = true
     pkg {
-        repo = 'kotlin'
-        userOrg = 'consoleau'
+        repo = 'kotlin-jpa2-specification-dsl'
+        userOrg = 'efredz'
         name = 'kotlin-jpa-specification-dsl'
         licenses = ['Apache-2.0']
-        labels = ['kotlin','spring']
-        websiteUrl = "https://github.com/consoleau/${project.name}"
-        issueTrackerUrl = "https://github.com/consoleau/${project.name}/issues"
-        vcsUrl = "https://github.com/consoleau/${project.name}.git"
+        labels = ['kotlin','spring', 'jpa', 'dsl']
+        websiteUrl = "https://github.com/efredz/kotlin-jpa2-specification-dsl"
+        issueTrackerUrl = "https://github.com/efredz/kotlin-jpa2-specification-dsl/issues"
+        vcsUrl = "https://github.com/efredz/kotlin-jpa2-specification-dsl.git"
     }
 }
 
