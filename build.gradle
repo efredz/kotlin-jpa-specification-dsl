@@ -48,7 +48,7 @@ bintray {
     pkg {
         repo = 'kotlin-jpa2-specification-dsl'
         userOrg = 'efredz'
-        name = 'kotlin-jpa-specification-dsl'
+        name = 'com.efredz.jpa2specificationdsl'
         licenses = ['Apache-2.0']
         labels = ['kotlin','spring', 'jpa', 'dsl']
         websiteUrl = "https://github.com/efredz/kotlin-jpa2-specification-dsl"
